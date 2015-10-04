@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_dialog_message">Αυτή η εφαρμογή δημιουργήθηκε από τον \nΓεώργιο Μιχαηλίδη \nως μέρος της πτυχιακής του.\n Έκδοση 1.2</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="new_announcement">AUTH CACLab: Νέα Ανακοίνωση!</string>
+    <string name="pref_about">Σχετικά</string>
+    <string name="pref_header_about">Σχετικά με την εφαρμογή</string>
+    <string name="pref_header_language">Γλώσσα</string>
+    <string name="select_lang">Επιλέξτε γλώσσα</string>
+    <string name="title_activity_maps">Χάρτης</string>
+    <string name="title_activity_settings">Ρυθμίσεις</string>
+    <string name="title_section1">Αρχική Σελίδα</string>
+    <string name="title_section2">Παρουσίαση</string>
+    <string name="title_section3">Δημοσιεύσεις</string>
+    <string name="title_section4">Ανακοινώσεις</string>
+    <string name="title_section5">Έρευνα</string>
+    <string name="title_section6">Μαθήματα</string>
+    <string name="title_section7">Ανθρώπινο Δυναμικό</string>
+    <string name="title_section8">Διεύθυνση</string>
+</resources>
